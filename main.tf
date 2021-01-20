@@ -12,7 +12,7 @@ provider "google" {
   version = "3.5.0"
 
 
-  project = "mateusm-mbaimpacta-turma04"
+  project = "mateusm-cloudautomation"
   region  = "us-central1"
   zone    = "us-central1-c"
 }
